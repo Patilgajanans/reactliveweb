@@ -47,8 +47,6 @@
    margin: 0;
  }
 
-
-
  #header{
     width: 100%;
     height: 80vh;
@@ -96,8 +94,8 @@
    width: 300px ;
 }
 .logo{
-   height: 60%;
-   width: 60%;
+   height: 20%;
+   width: 20%;
 }
 .end-div {
    position: fixed;

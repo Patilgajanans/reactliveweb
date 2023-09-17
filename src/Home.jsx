@@ -1,6 +1,6 @@
 import React from 'react'
 import Common from './Common'
-import DigMark from "./Images/Digital Marketing.png"
+import DigMark from "./Images/Logo.png"
 
 const Home = () => {
   return (
